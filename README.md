@@ -29,16 +29,16 @@ No installation required.
 
 
 ## Project Structure
+```text
 catan-dice-roller/
 ├── images/
-│ ├── ship.svg # Barbarian icon (event die)
-│ ├── trade.png # Trade icon (event die)
-│ ├── politics.png # Politics icon (event die)
-│ └── science.png # Science icon (event die)
-├── index.html # Main UI + logic (HTML/CSS/JS in one file)
-└── README.md # Project documentation
-
-
+│   ├── ship.svg        # Barbarian icon (event die)
+│   ├── trade.png       # Trade icon (event die)
+│   ├── politics.png    # Politics icon (event die)
+│   └── science.png     # Science icon (event die)
+├── index.html          # Main UI + logic (HTML/CSS/JS in one file)
+└── README.md           # Project documentation
+```
 ## Event Die Distribution
 The event die matches Cities & Knights style distribution:
 - Barbarian: **3 faces**
