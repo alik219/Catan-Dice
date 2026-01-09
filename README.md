@@ -29,13 +29,15 @@ No installation required.
 
 
 ## Project Structure
+.
 ├── index.html
-└── images/
-├── ship.svg
-├── trade.png
-├── politics.png
-└── science.png
 ├── README.md
+└── images/
+    ├── ship.svg
+    ├── trade.png
+    ├── politics.png
+    └── science.png
+
 
 ## Event Die Distribution
 The event die matches Cities & Knights style distribution:
