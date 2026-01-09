@@ -27,10 +27,15 @@ No installation required.
 - **Tap / click** any die to roll
 - **Swipe** on a die to roll (mobile)
 
-## Controls
-- **Roll All Dice** button: rolls red, yellow, and event dice
-- **Tap/click any die**: rolls all dice
-- **Swipe on a die**: rolls all dice (quick swipe gesture)
+
+## Project Structure
+├── index.html
+└── images/
+├── ship.svg
+├── trade.png
+├── politics.png
+└── science.png
+├── README.md
 
 ## Event Die Distribution
 The event die matches Cities & Knights style distribution:
